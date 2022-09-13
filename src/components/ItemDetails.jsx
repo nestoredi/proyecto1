@@ -4,7 +4,7 @@ import Count from "./Count"
  const ItemDetails = ({item}) => {
 
     const onAdd = (quantity) => {
-        console.loog(quantity)
+        console.log(quantity)
     }
 
   return (
