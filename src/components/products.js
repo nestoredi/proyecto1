@@ -6,7 +6,7 @@ export const products=  [
         category: 'comic',
         stock: 10,
         description: "comic 1990",
-        img: "../../img//batman.jpg"
+        img: "../../img//batman.jpg",
     },
     {
         title: "Batman",
@@ -15,7 +15,7 @@ export const products=  [
         category: 'arte',
         stock: 10,
         description: "reproduccion del heroe",
-        img: "../../img/Batman1.png"
+        img: "../../img/Batman1.png",
     },
     {
         title: "Harley Quinn",
@@ -24,7 +24,7 @@ export const products=  [
         category: 'arte',
         stock: 10,
         description: "figura",
-        img: "../..7img/harleyQuinn.png"
+        img: "../../img/harleyQuinn.png",
     },
     {
         title: "Joker",
@@ -33,7 +33,7 @@ export const products=  [
         category: 'comic',
         stock: 10,
         description: "comic del popular villano",
-        img: "../../img/joker.jpg"
+        img: "../../img/joker.jpg",
     },
     {
         title: "Justice League",
@@ -42,7 +42,7 @@ export const products=  [
         category: 'comic',
         stock: 20,
         description: "la historia de la J L",
-        img: "../../img/justiceLeague.jpg"
+        img: "../../img/justiceLegue.jpg",
     },
     {
         title: "Rebirth",
@@ -51,7 +51,7 @@ export const products=  [
         category: 'comic',
         stock: 10,
         description: "renacimiento del heroe",
-        img: "../../img/rebirth.jpg"
+        img: "../../img/rebirth.jpg",
     },
     {
         title: "Superman",
@@ -60,7 +60,7 @@ export const products=  [
         category: 'comic',
         stock: 10,
         description: "renacimiento del heroe",
-        img: "../../img/superman.jpg"
+        img: "../../img/superman.jpg",
     }
 ]
 export default products;
